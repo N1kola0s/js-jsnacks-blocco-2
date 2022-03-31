@@ -6,7 +6,7 @@ Esegui questo programma in due versioni, con il for e con il while. */
 let num;
 let sum = 0;
 
-/* let i = 0
+let i = 0
 
 while(i<5){
     num = Number(prompt('Inserisci un numero'));
@@ -16,10 +16,10 @@ while(i<5){
     i++
 }
 
-console.log(`la somma di tutti i numeri è ${sum}`); */
+console.log(`la somma di tutti i numeri è ${sum}`);
 
 
-for (let i = 1; i<=5; i++){
+/* for (let i = 1; i<=5; i++){
 
     num = Number(prompt('Inserisci un numero'));
 
@@ -27,4 +27,4 @@ for (let i = 1; i<=5; i++){
 
 }
 
-console.log(`la somma di tutti i numeri è ${sum}`);
+console.log(`la somma di tutti i numeri è ${sum}`); */
