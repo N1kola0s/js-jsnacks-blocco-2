@@ -33,7 +33,6 @@ for (let i=0; i < name_list.length; i++){
     //pusho il nome completo generato in modo random nella lista falsa degli invitati
     wrong_list.push(random_full_name)
     
-
 }
 
 //stampo in console la lista falsa degli invitati 
